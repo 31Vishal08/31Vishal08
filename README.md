@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github.com/31Vishal08/cc-visualizer/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" width="400" height="400">
 <!--
 **31Vishal08/31Vishal08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .
-<img src="https://github.com/31Vishal08/cc-visualizer/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" width="500" height="500">
+
 
 -->
