@@ -1,5 +1,5 @@
- [![wakatime](https://wakatime.com/badge/user/663e162e-324f-45a9-b59c-3069aeb0e8fa.svg)](https://wakatime.com/@663e162e-324f-45a9-b59c-3069aeb0e8fa)
-<h1 align="center">Hi 👋, I'm Gaurish Ojha</h1>
+
+<h1 align="center">Hi 👋, I'm Vishal Raj Bais</h1>
 <h3 align="center">A Computer Science(Data Science and AI) Student and Developer from IIITNR</h3>
 <img align="right" src="https://wakatime.com/share/@gaurish21102/fd40fa31-41f3-4f44-b40d-bb2ebcbdc43d.svg" alt="gaurish-ojha" height="220" width="320" />
 
