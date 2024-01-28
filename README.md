@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Raj Bais</h1>
 <h3 align="center">A Computer Science(Data Science and AI) Student and Developer from IIITNR</h3>
-<img align="right" src="https://wakatime.com/share/@gaurish21102/fd40fa31-41f3-4f44-b40d-bb2ebcbdc43d.svg" alt="gaurish-ojha" height="220" width="320" />
+<!-- <img align="right" src="https://wakatime.com/share/@gaurish21102/fd40fa31-41f3-4f44-b40d-bb2ebcbdc43d.svg" alt="gaurish-ojha" height="220" width="320" /> -->
 
 - 🔭 Passionate about **Backend Development** with **Java, Spring Boot, and crafting RESTful APIs**.
 
@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **gaurishojha21003@gmail.com**
 <div>
-  <img src="https://raw.githubusercontent.com/gaurishiiitnr/cf-visualizer/main/output/light_card.svg" alt="Codeforces Stats" width="400" height="300" style="float: right; margin-left: 20px;" />
+  output/light_card.svg
+   <img src="https://github.com/31Vishal08/cf-visualizer/blob/main/output/light_card.svg" alt="Codeforces Stats" width="400" height="400" />
     <img src="https://leetcard.jacoblin.cool/vishalbais31?ext=contest" alt="Leetcode Stats" width="400" height="400" style="float: left; margin-right: 20px;" />
      <img src="https://github.com/31Vishal08/cc-visualizer/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" alt="Codechef Stats" width="400" height="400" />
 </div>
