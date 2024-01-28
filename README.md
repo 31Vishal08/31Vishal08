@@ -11,6 +11,15 @@
 
 - 📫 How to reach me **vishalbais31@gmail.com**
 
+<div>
+   <img src="https://github.com/31Vishal08/cf-visualizer/blob/main/output/light_card.svg" alt="Codeforces Stats" width="400" height="400" />
+     <img src="https://github.com/31Vishal08/cc-visualizer/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" alt="Codechef Stats" width="400" height="400" />
+</div>
+  <div>
+    <img src="https://leetcard.jacoblin.cool/vishalbais31?ext=contest" alt="Leetcode Stats" width="400" height="400" style="float: left; margin-right: 20px;" />
+     </div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishalrajbais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishalrajbais" height="30" width="40" /></a>
