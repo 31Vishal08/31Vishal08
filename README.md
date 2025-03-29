@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Raj Bais</h1>
 <h3 align="center">A Developer from IIITNR</h3>
 
-- 🔭 Passionate about *Android Development* with *Flutter, Dart , APIs and Firebase*.
-
-- 🌱 I’m currently learning **Android Development.**
-
-- 🤝 I’m looking for good **internship opportunity.**
-
 - 💬 Ask me about **Data Structure and Algorithms, Graphs, and Technology in general.**
 
 - 📫 How to reach me **vishalbais31@gmail.com**
